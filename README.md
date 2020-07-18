@@ -12,7 +12,6 @@ Profession:
 * ???, ???, ???
 
 Hobbies:
-* Web Development
-* Game Development
+* Software Engineering
 * Computer Science
 * ...
