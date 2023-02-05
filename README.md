@@ -1,4 +1,4 @@
-Level: 28
+Level: 29
 
 Strength | Dexterity | Magic | Agility | Will
 -------- | --------- | ----- | ------- | -----
